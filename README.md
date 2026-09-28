@@ -6,17 +6,17 @@ Hecha por un auditor HSEQ con más de 15 años en el sector hidrocarburos, para 
 
 ## Qué hace
 
-* **Planea** la auditoría: objetivo, alcance, criterios, agenda y documentos que se deben pedir antes de la visita.
-* **Genera listas de verificación** por cláusula, cada pregunta cruzada con su requisito legal colombiano.
-* **Redacta hallazgos** defendibles (requisito → evidencia → hallazgo → clasificación) y corrige los que están mal escritos.
-* **Construye el plan de acción** con análisis de causa, jerarquía de controles y verificación de eficacia.
-* **Arma el informe** con un resumen ejecutivo para la alta dirección.
+- **Planea** la auditoría: objetivo, alcance, criterios, agenda y documentos que se deben pedir antes de la visita.
+- **Genera listas de verificación** por cláusula, cada pregunta cruzada con su requisito legal colombiano.
+- **Redacta hallazgos** defendibles (requisito → evidencia → hallazgo → clasificación) y corrige los que están mal escritos.
+- **Construye el plan de acción** con análisis de causa, jerarquía de controles y verificación de eficacia.
+- **Arma el informe** con un resumen ejecutivo para la alta dirección.
 
 ## Ejemplo
 
-> \*\*Tú:\*\* Redacta este hallazgo: "los contratistas no tienen seguridad social al día".
+> **Tú:** Redacta este hallazgo: "los contratistas no tienen seguridad social al día".
 >
-> \*\*Claude:\*\* Te devuelve el hallazgo con el requisito (ISO 45001 8.1.4 + Decreto 1072 art. 2.2.4.6.28), la evidencia que falta precisar (muestra, periodo, documento), la clasificación propuesta con su justificación y la acción correctiva.
+> **Claude:** Te devuelve el hallazgo con el requisito (ISO 45001 8.1.4 + Decreto 1072 art. 2.2.4.6.28), la evidencia que falta precisar (muestra, periodo, documento), la clasificación propuesta con su justificación y la acción correctiva.
 
 Mira más en [`examples/`](examples/).
 
@@ -30,23 +30,23 @@ Detalles en [`docs/instalacion.md`](docs/instalacion.md).
 
 ## Edición gratuita vs. Pro
 
-||Gratuita|Pro|
-|-|:-:|:-:|
-|Lista de verificación ISO 45001 + cruce legal CO|✅|✅|
-|Redacción y clasificación de hallazgos|✅|✅|
-|Plan e informe de auditoría (plantillas)|✅|✅|
-|Módulo Res. 0312 con los 60 estándares y cálculo de puntaje|—|✅|
-|Paquete sectorial hidrocarburos (RUC, permisos de trabajo, tareas de alto riesgo)|—|✅|
-|Auditoría integrada ISO 9001 / 14001 / 45001|—|✅|
-|Salida directa en Word y Excel con formato profesional|—|✅|
-|Actualizaciones normativas durante 12 meses|—|✅|
+| | Gratuita | Pro |
+|---|:---:|:---:|
+| Lista de verificación ISO 45001 + cruce legal colombiano | ✅ | ✅ |
+| Redacción y clasificación de hallazgos (ISO 19011) | ✅ | ✅ |
+| Plan e informe de auditoría (plantillas) | ✅ | ✅ |
+| Autoevaluación Res. 0312 en Excel: grupo de 7, 21 o 60 estándares según trabajadores y clase de riesgo (Decreto 768 de 2022) | — | ✅ |
+| Calificación automática con la Tabla de valores oficial y plan de mejoramiento | — | ✅ |
+| Registros sugeridos para validar cada estándar | — | ✅ |
+| Tablero de control: PHVA, grupos de estándar, brechas prioritarias y análisis para la alta dirección | — | ✅ |
+| Paquete hidrocarburos (RUC) y auditoría integrada ISO 9001 / 14001 / 45001 | — | 🔜 Próximamente |
 
 👉 Más información sobre la versión Pro en [`PRO.md`](PRO.md).
 
 ## Aviso importante
 
-* No reproduce el texto de ISO 45001, que está protegido por derechos de autor. Para auditar necesitas tu copia licenciada de la norma.
-* Es una herramienta de apoyo y no reemplaza el juicio profesional del auditor ni un concepto jurídico. Verifica la vigencia de las normas antes de citarlas.
+- No reproduce el texto de ISO 45001, que está protegido por derechos de autor. Para auditar necesitas tu copia licenciada de la norma.
+- Es una herramienta de apoyo y no reemplaza el juicio profesional del auditor ni un concepto jurídico. Verifica la vigencia de las normas antes de citarlas.
 
 ## Licencia
 
@@ -55,7 +55,6 @@ Edición gratuita bajo [CC BY-NC-SA 4.0](LICENSE): puedes usarla y adaptarla, pe
 ## Autor
 
 **Guillermo Andrés Escobar Materón**: auditor interno HSEQ, especialista en Sistemas Integrados de Gestión, Gerencia de SST y Gerencia de Proyectos.
-¿Implementación, formación de auditores o auditorías para tu empresa? Escríbeme: *guiesconsultores@gmail.com*
+¿Implementación, formación de auditores o auditorías para tu empresa? Escríbeme: **guiesconsultores@gmail.com**
 
 Si te sirve, deja una ⭐ en el repositorio.
-
